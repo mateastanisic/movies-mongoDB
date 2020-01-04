@@ -1,4 +1,5 @@
-# movies [php/javascript/html/css]
+# movies 
+[php/javascript/html/css]
 WEB APLIKACIJA - nosql projekt iz kolegija NMBP
 
 zadatak se sastojao od dva dijela:
